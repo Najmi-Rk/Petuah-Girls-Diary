@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Petuah Girls Diary  (*^ー^)ノ♪")
+st.title("Petuah Girls Diary (*^ー^)ノ♪")
 st.write("Let's keep our memories gurl")
 st.write("♡")
 st.image("IMG-20240304-WA0017.jpg")
