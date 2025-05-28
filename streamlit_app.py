@@ -2,15 +2,18 @@ import streamlit as st
 
 st.title("Petuah Girls Diary (*^ー^)ノ♪")
 st.write("Let's keep our memories gurl")
-
+st.write("♡")
 st.image("IMG-20240223-WA0007.jpg")
 st.write("hahaha foto pertama kitaa best")
-
-
+st.write(".")
+st.write(".")
 st.image("IMG-20240304-WA0017.jpg")
-siapa yang kangen petuah disini?
-
-
+st.write("siapa yang kangen petuah disini?")
+st.write(".")
+st.write(".")
+st.write("horee campingg pertama kitaa")
+st.image("")
+st.image("")
 st.image("")
 st.image("")
 st.image("")
